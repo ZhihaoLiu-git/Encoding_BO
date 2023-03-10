@@ -10,18 +10,20 @@
 - GPy
 - GPyOpt 
 - hyperopt
+- pytorch
+- sklearn
 
 ## Usage
 
 1. Run Encoding-BO experiments: python run_epxriments.py followed by the following flags: 
 - save_result: True/False 
-- encoder: In ["Ordinal", "Aggregate", "RandomOrder", "TargetMean", "Onehot", "CoCaBO", "SMAC", "TPE"]
+- encoder: In ["Ordinal", "Aggregate", "RandomOrder", "TargetMean", "Onehot"]
 - num_sampling: The number of inital data
 - budget: Max Optimisation iterations
 - max_trial: Max Optimisation trials (different initial data)
 - obj_func: Objective function
 
-2. CoCaBO/TPE/SMAC experiments in this repository:
+2. Run CoCaBO/TPE/SMAC experiments in this repository:
 - set select_method = 'CoCaBO'/TPE/SMAC 
 
 3. data storage
