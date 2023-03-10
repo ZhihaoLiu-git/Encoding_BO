@@ -26,7 +26,7 @@
 2. Run CoCaBO/TPE/SMAC experiments in this repository:
 - set select_method = 'CoCaBO'/TPE/SMAC 
 
-3. data storage
+3. Data storage:
 - Encoding_BO\experiment\data\init_data **# initial data**
 - Encoding_BO\experiment\data\result_data **# result data**
 - Encoding_BO\experiment\data\design_data **# design data, Discretization evaluation for acquisition function**
