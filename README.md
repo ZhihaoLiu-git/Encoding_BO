@@ -6,7 +6,8 @@
 - 
 ## Target encoding & Ordinal encoding
 
-%![](https://github.com/honghaow/Triple-Q/blob/master/env/grid_world.png)
+![](https://github.com/honghaow/Triple-Q/blob/master/env/grid_world.png)
+![](https://github.com/ZhihaoLiu-git/Encoding_BO/encoding_example.png)
 ![](https://github.com/ZhihaoLiu-git/Encoding_BO/encoding_example.png)
 
 
