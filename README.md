@@ -3,7 +3,7 @@
 - Aggregate encoding BO AggBO encodes multiple choices of a categorical input through several distinct ranks.
 - Different from the prominent one-hot encoding, both approaches transfer each categorical input into exactly one numerical input and thus avoid severely increasing the dimension of the input space.
 - For more details on the method, please read our paper Bayesian Optimization over Mixed Type Inputs with Encoding Method. 
-- 
+
 ## Target encoding & Ordinal encoding
 ![avatar](https://github.com/ZhihaoLiu-git/Encoding_BO/blob/main/encoding_example.png)
 
