@@ -6,10 +6,8 @@
 - 
 ## Target encoding & Ordinal encoding
 
-![](https://github.com/honghaow/Triple-Q/blob/master/env/grid_world.png)
-
 ![avatar](https://github.com/WholeG/Bayesian-Optimisation-over-Categorical-Inputs-with-Target-Encoding-Methods/blob/main/pics/distribution1.jpg)
-![avatar](https://github.com/ZhihaoLiu-git/Encoding_BO/blob/master/encoding_example.png)
+![avatar](https://github.com/ZhihaoLiu-git/Encoding_BO/blob/main/encoding_example.png)
 
 
 ## Dependencies
