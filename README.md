@@ -5,10 +5,7 @@
 - For more details on the method, please read our paper Bayesian Optimization over Mixed Type Inputs with Encoding Method. 
 - 
 ## Target encoding & Ordinal encoding
-
-![avatar](https://github.com/WholeG/Bayesian-Optimisation-over-Categorical-Inputs-with-Target-Encoding-Methods/blob/main/pics/distribution1.jpg)
 ![avatar](https://github.com/ZhihaoLiu-git/Encoding_BO/blob/main/encoding_example.png)
-
 
 ## Dependencies
 - category_encoders
